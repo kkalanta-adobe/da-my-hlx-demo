@@ -12,6 +12,7 @@ import {
   loadSections,
   loadCSS,
   sampleRUM,
+  getMetadata,
 } from './aem.js';
 
 /**
